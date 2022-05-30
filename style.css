@@ -1,3 +1,17 @@
 body{
-    background:antiquewhite
+    background:linen;
+    text-align:center;
+    color:darkslategray
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto
+}
+p{
+    text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
